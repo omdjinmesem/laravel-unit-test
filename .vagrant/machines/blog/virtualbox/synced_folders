@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/blog":{"type":null,"mount_options":[],"guestpath":"/home/vagrant/blog","hostpath":"/Users/omdjin/Documents/WEBAPP/belajar/laravel/blog","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/omdjin/Documents/WEBAPP/belajar/laravel/blog","disabled":false,"__vagrantfile":true}}}
